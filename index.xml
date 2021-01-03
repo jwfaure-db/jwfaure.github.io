@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Josh Faure</title>
+    <link>https://jwfaure.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Josh Faure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jwfaure.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: The Rise and Fall of The Simpsons</title>
+      <link>https://jwfaure.github.io/projects/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwfaure.github.io/projects/project-1/</guid>
+      <description>Like many people born in the late 80&amp;rsquo;s or early 90&amp;rsquo;s, I grew up loving &amp;ldquo;The Simpsons&amp;rdquo;.
+There are three questions are guaranteed to send fans into a civil war:
+ What&amp;rsquo;s the best episode? When did the show start to get bad? In &amp;lsquo;You Only Move Twice,&amp;rsquo; did Homer mean he saw someone say &amp;lsquo;Goodbye&amp;rsquo; to a shoe before that gag?  Well, the first question is easily settled (it&amp;rsquo;s definitely not &amp;ldquo;Lisa the Vegetarian&amp;rdquo; - because you don&amp;rsquo;t win friends with salad), the third is an eternal mystery and the question of the show&amp;rsquo;s decline will always be up to debate &amp;ndash; well I hope to at least shine some light on this here.</description>
+    </item>
+    
+    <item>
+      <title>Project II: How can an NFL team make the jump into the playoffs?</title>
+      <link>https://jwfaure.github.io/projects/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwfaure.github.io/projects/project-2/</guid>
+      <description>If you&amp;rsquo;d like to see the code that developed the visualisation, or want to see how the tidymodels package enabled a seamless evaluation of the various algorithms, please check it out on the GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Spotify</title>
+      <link>https://jwfaure.github.io/projects/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwfaure.github.io/projects/project-3/</guid>
+      <description>If you&amp;rsquo;d like to see the code that developed the visualisation, or want to see the tidymodels package used in an unsupervised setting, please check it out on the GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Twitter sentiment analysis</title>
+      <link>https://jwfaure.github.io/projects/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwfaure.github.io/projects/project-4/</guid>
+      <description>If you&amp;rsquo;d like to see the code that developed the visualisation, or want to see the tidymodels package used in an unsupervised setting, please check it out on the GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project V: Did COVID affect the 2020 AFL season?</title>
+      <link>https://jwfaure.github.io/projects/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwfaure.github.io/projects/project-5/</guid>
+      <description>If you&amp;rsquo;d like to see the code that developed the visualisation, or want to see the tidymodels package used in an unsupervised setting, please check it out on the GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
